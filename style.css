@@ -1,0 +1,57 @@
+a{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(0, 0, 0);
+text-decoration: none;
+
+
+}
+
+a:hover{
+
+color:rgb(11, 90, 236)
+
+
+
+
+
+} 
+
+.list{
+border: rgb(10, 137, 241) 4px solid;
+
+border-radius: 40px;
+padding: 10px; ;
+width: 200px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 40%;
+}
+
+
+
+
+
+body{
+
+background-color    : rgb(173, 222, 241);
+
+
+
+}
+
+
+.image{
+
+margin-left: 30%;
+border-radius: 10px;
+
+}
+
+.logoheading{
+
+
+margin-left: 35%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: darkblue;
+
+}
